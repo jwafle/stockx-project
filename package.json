@@ -1,14 +1,23 @@
 {
-    "name":"web_scrape",
-    "version":"1.0.0",
-    "main":"webscraping",
-    "scripts":{
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author":"Jared W.",
-    "license":"ISC",
-    "dependencies": {
-        "cheerio":"^1.0.0-rc.3",
-        "request-promise":"^4.2.6"
-    }
+  "name": "web_scrape",
+  "version": "1.0.0",
+  "main": "webscraping",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared W.",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request-promise": "^4.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwafle/stockx-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jwafle/stockx-project/issues"
+  },
+  "homepage": "https://github.com/jwafle/stockx-project#readme",
+  "description": ""
 }
